@@ -1,0 +1,2 @@
+FishGuard = 1.0.0
+FishGuardKey = KEYFREE181020261601$&GG$$@$$
